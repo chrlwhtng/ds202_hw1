@@ -1,0 +1,19 @@
+---
+title: "hw1.Rmd"
+author: "Charlie Whiting; chrlwhtng"
+date: "1/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Science Jobs
+There are many jobs that are related to data science, or that will be in the near future. Some that come to the top of my mind are sports analysts, fiancial analysts, and economists. While they all aim to accomplish different things, they all share similarities in the programs they use **and** the skills they require. In the sporting world, these skills are used to optimize on-field-talent and player development, while economists try to identify trends that tell how certain markets are performing. [Here's a list of data science jobs that I am currently interested in pursuing and want to learn more about](https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/). Hopefully, by time I graduate college, I will have narrowed down what field in data science I *want* to pursue. 
+
+![Top Data Science Jobs](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/05/Top-Data-Science-Jobs.jpg) 
+
+```{r}
+version
+```
