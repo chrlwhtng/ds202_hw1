@@ -1,2 +1,4 @@
 name: Jacob Baalson username: jbaalson
 The owner uploaded and made all changes to the hw1.Rmd and hw1.html.Commit id : 41cd86bc98f8cf79434354b82023f895c0908592
+I knitted the Rmd file and did not have any errors.
+I encoutered a difficulty by inserting the link incorrectly in the git clone command.
